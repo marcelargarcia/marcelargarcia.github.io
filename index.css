@@ -4807,6 +4807,7 @@ code,
   padding-bottom: 256px;
   padding-bottom: 16rem;
 }
+
 .pt0 {
   padding-top: 0;
 }
@@ -7630,4 +7631,15 @@ pre {
 }
 .nested-links a {
   word-wrap: break-word;
+}
+.logo img {
+  float: left;
+  width: 50px;
+  height: 50px;
+}
+
+.logo p {
+  position: relative;
+  top: 18px;
+  left: 10px;
 }

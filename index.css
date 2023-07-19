@@ -7029,7 +7029,7 @@ code,
   }
   .f-5-l,
   .f-subheadline-l {
-    font-size: 5rem;
+    font-size: 4rem;
   }
   .f1-l {
     font-size: 3rem;
@@ -7635,13 +7635,7 @@ pre {
 }
 
 .logo img {
-  float: left;
+  float: center;
   width: 50px;
   height: 50px;
-}
-
-.logo p {
-  position: relative;
-  top: 18px;
-  left: 10px;
 }

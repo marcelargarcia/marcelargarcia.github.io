@@ -3178,12 +3178,11 @@ code,
   max-width: 48rem;
 }
 .mw8 {
-  max-width: 1024px;
-  max-width: 64rem;
+  max-width: 1200px;
 }
 .mw9 {
-  max-width: 1536px;
-  max-width: 96rem;
+  max-width: 1024px;
+  max-width: 64rem;
 }
 .mw-none {
   max-width: none;

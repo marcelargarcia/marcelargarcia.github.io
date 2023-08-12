@@ -7651,21 +7651,18 @@ pre {
   background-color: #bababa;
   border-radius: 6px;
   width: fit-content;
+  color: #000;
+  text-decoration: none;
 }
 .curr-button img {
   margin-right: 10px;
 }
 
 .content-container {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
   width: 100%;
   max-width: 1000px;
 }
 .content-container figure {
-  width: 25%;
-}
-.text-content {
-  width: 75%;
+  width: 300px;
+  margin: 0 auto;
 }

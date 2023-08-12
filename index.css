@@ -7650,6 +7650,7 @@ pre {
   border: 0;
   background-color: #bababa;
   border-radius: 6px;
+  width: fit-content;
 }
 .curr-button img {
   margin-right: 10px;

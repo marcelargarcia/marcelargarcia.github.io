@@ -7655,3 +7655,17 @@ pre {
 .curr-button img {
   margin-right: 10px;
 }
+
+.content-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 1000px;
+}
+.content-container figure {
+  width: 25%;
+}
+.text-content {
+  width: 75%;
+}

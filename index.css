@@ -8,7 +8,7 @@ body {
 }
 h1 {
   font-size: 2em;
-  margin: 0.67em 0;
+  margin: 0;
 }
 hr {
   box-sizing: content-box;
@@ -6064,8 +6064,8 @@ code,
     padding-bottom: 4rem;
   }
   .pv6-l {
-    padding-top: 8rem;
-    padding-bottom: 8rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
   }
   .pv7-l {
     padding-top: 16rem;
@@ -7632,9 +7632,25 @@ pre {
 .nested-links a {
   word-wrap: break-word;
 }
-
+.logo {
+  display: flex;
+  align-items: center;
+}
 .logo img {
-  float: center;
+  margin-right: 10px;
   width: 50px;
   height: 50px;
+}
+
+.curr-button {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0.375rem 0.75rem;
+  border: 0;
+  background-color: #bababa;
+  border-radius: 6px;
+}
+.curr-button img {
+  margin-right: 10px;
 }
